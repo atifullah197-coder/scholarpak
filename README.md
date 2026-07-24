@@ -1,91 +1,91 @@
-# 🎓 ScholarPak AI — Global Scholarship Platform for Pakistani Students
+# 🎓 ScholarPak
 
-![ScholarPak AI Banner](https://via.placeholder.com/1200x400)
+ScholarPak is an AI-powered scholarship discovery platform that helps students find scholarships, explore opportunities, and manage applications 
+from one place.
 
-## 🌍 Overview
+Demo link
+https://vercel.com/atifullah1/scholarpak
 
-**ScholarPak AI** is an AI-powered global scholarship discovery platform designed to help Pakistani students find, analyze, and apply for international scholarship opportunities easily.
 
-The platform uses artificial intelligence to match students with suitable scholarships based on their academic background, field of study, education level, and personal preferences.
+## ✨ Features
 
-The goal of ScholarPak AI is to reduce the difficulty students face while searching for scholarships and provide a smarter, faster, and more personalized scholarship experience.
+- 🔍 Smart Scholarship Search
+- 🤖 AI-powered Scholarship Recommendations
+- 📋 Scholarship Details
+- 👤 User Profile Management
+- 🎯 Search & Match System
+- 🌍 Community & Country Hub
+- 💬 Mock Interview Module
+- 📊 Operations Intelligence Dashboard
+- 🕸️ Trust Graph
+
+## 🛠️ Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Node.js
+- CSS
+
+## 📂 Project Structure
+
+```
+scholarpak/
+│
+├── src/
+├── public/
+├── components/
+├── data/
+├── server.ts
+├── package.json
+├── vite.config.ts
+└── README.md
+```
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/atifullah197-coder/scholarpak.git
+```
+
+Go to the project directory:
+
+```bash
+cd scholarpak
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## 📸 Screenshots
+
+Add screenshots of your application here.
+
+## 🤝 Contributing
+
+Contributions are welcome. Please fork the repository and submit a pull request.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+
+**Atifullah**
+
+GitHub: https://github.com/atifullah197-coder
 
 ---
 
-## 🚀 Problem It Solves
-
-Many students struggle to find suitable scholarships because:
-
-- ❌ Scholarship information is scattered across many websites
-- ❌ Students miss opportunities due to lack of awareness
-- ❌ Finding scholarships according to eligibility criteria takes a lot of time
-- ❌ Understanding requirements and deadlines is difficult
-
-**ScholarPak AI solves this problem by providing an intelligent scholarship search and recommendation system.**
-
----
-
-# ✨ Key Features
-
-## 🤖 AI Scholarship Assistant
-
-- AI-powered assistant to guide students
-- Answers scholarship-related questions
-- Provides personalized recommendations
-
-## 🎯 AI Match Score Calculator
-
-Calculates scholarship compatibility based on:
-
-- GPA / Academic performance
-- Field of study
-- Degree level
-- Eligibility requirements
-
-## 🔎 Global Scholarship Search
-
-- Search international scholarships
-- Filter opportunities according to student profile
-- Track scholarship information
-
-## 📊 Personalized Dashboard
-
-Students can:
-
-- Save scholarships
-- View recommendations
-- Manage scholarship opportunities
-
-## 🌐 Student-Friendly Interface
-
-- Modern responsive design
-- Easy navigation
-- Mobile-friendly experience
-
----
-
-# 🛠️ Technologies Used
-
-## Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- Modern UI Components
-
-## Backend
-
-- Server-side API integration
-- AI-powered services
-
-## AI Integration
-
-- Google Gemini AI
-
-## Deployment
-
-- Vercel
-
----
-
-# 🏗️ Project Architecture
+⭐ If you like this project, don't forget to star the repository!
