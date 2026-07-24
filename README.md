@@ -1,58 +1,87 @@
 # 🎓 ScholarPak AI
 
-ScholarPak AI is an AI-powered global scholarship platform designed to help Pakistani students discover scholarships, evaluate eligibility, and manage their scholarship journey in one place. The platform uses AI to provide personalized scholarship recommendations and simplify the application process.
+> An AI-powered global scholarship platform that helps students discover scholarships, check eligibility, receive personalized AI recommendations, and manage their scholarship journey from one place.
 
-## 🌐 Live Demo
-
-🔗 https://your-live-demo-url.vercel.app
-
-> Replace the above link with your actual Vercel deployment URL.
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-6-purple?logo=vite)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?logo=node.js)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
-## ✨ Features
+## 🌐 Live Demo
+
+🔗 **https://your-live-demo-url.vercel.app**
+
+> Replace this with your actual Vercel deployment URL.
+
+---
+
+# ✨ Features
 
 - 🔍 Smart Scholarship Search
 - 🤖 AI-Powered Scholarship Recommendations
+- 🎯 AI Match Score Calculator
 - 📋 Detailed Scholarship Information
 - 👤 User Profile Management
-- 🎯 AI Match Score System
 - 🌍 Country & Community Hub
 - 💬 AI Mock Interview Module
 - 📊 Operations Intelligence Dashboard
 - 🕸️ Trust Graph
-- 📱 Fully Responsive Design
+- 📱 Fully Responsive UI
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Problem It Solves
 
-### Frontend
+Finding scholarships is difficult because information is scattered across many websites.
+
+ScholarPak AI solves this by providing:
+
+- A centralized scholarship platform
+- Personalized AI recommendations
+- Eligibility matching
+- Organized scholarship information
+- A modern and easy-to-use interface
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+
 - React
 - TypeScript
 - Vite
 - CSS
 
-### Backend
+## Backend
+
 - Node.js
 
-### AI
+## AI
+
 - Google Gemini AI
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```text
 scholarpak/
 │
-├── images/
-│   ├── home.png
-│   ├── dashboard.png
-│   └── search.png
-│
 ├── src/
-├── public/
+│   ├── screenshots/
+│   │   ├── 3.png
+│   │   ├── 22.png
+│   │   └── aa.png
+│   │
+│   ├── components/
+│   ├── data/
+│   └── ...
+│
+├── assets/
 ├── package.json
 ├── README.md
 └── ...
@@ -64,43 +93,43 @@ scholarpak/
 
 ## 🏠 Home Page
 
-![Home Page](images/home.png)
+![Home Page](src/screenshots/3.png)
 
 ---
 
 ## 📊 Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](src/screenshots/22.png)
 
 ---
 
 ## 🔍 Scholarship Search
 
-![Scholarship Search](images/search.png)
+![Scholarship Search](src/screenshots/aa.png)
 
 ---
 
-## 🚀 Installation
+# ⚙️ Installation
 
-### Clone the repository
+Clone the repository
 
 ```bash
 git clone https://github.com/atifullah197-coder/scholarpak.git
 ```
 
-### Navigate to the project folder
+Move into the project folder
 
 ```bash
 cd scholarpak
 ```
 
-### Install dependencies
+Install dependencies
 
 ```bash
 npm install
 ```
 
-### Run the development server
+Run the development server
 
 ```bash
 npm run dev
@@ -108,43 +137,52 @@ npm run dev
 
 ---
 
-## 💡 Why ScholarPak AI?
+# 💡 Future Improvements
 
-Finding scholarships can be difficult because information is scattered across multiple websites. ScholarPak AI solves this problem by bringing scholarship discovery, AI-powered recommendations, eligibility matching, and application management into a single platform.
-
----
-
-## 🎯 Future Improvements
-
-- Scholarship Deadline Notifications
-- Email Alerts
-- Scholarship Bookmarking
-- AI Resume Review
-- AI SOP Generator
-- Multi-language Support
-- Mobile App Version
+- 📧 Email Notifications
+- 🔔 Scholarship Deadline Alerts
+- ❤️ Save Favorite Scholarships
+- 📄 AI SOP Generator
+- 📑 AI Resume Analyzer
+- 🌐 Multi-language Support
+- 📱 Mobile Application
 
 ---
 
-## 🤝 Contributing
+# 🤝 Contributing
 
-Contributions are welcome!
+Contributions are welcome.
 
-1. Fork the repository.
-2. Create a new branch.
-3. Commit your changes.
-4. Push your branch.
-5. Open a Pull Request.
+1. Fork the repository
+2. Create a feature branch
+
+```bash
+git checkout -b feature-name
+```
+
+3. Commit your changes
+
+```bash
+git commit -m "Added new feature"
+```
+
+4. Push to GitHub
+
+```bash
+git push origin feature-name
+```
+
+5. Create a Pull Request
 
 ---
 
-## 📄 License
+# 📄 License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Atifullah**
 
