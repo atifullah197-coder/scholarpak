@@ -1,0 +1,6 @@
+{
+  "name": "ScholarPak AI",
+  "description": "Autonomous scholarship tracking pipeline, semantic search, explainable AI matching, and agentic application command center for global scholars.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
