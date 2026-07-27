@@ -12,11 +12,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **https://your-live-demo-url.vercel.app**
-
-> Replace this with your actual Vercel deployment URL.
-
----
+https://scholarpak-kn4nvhl5t-atifullah1.vercel.app/
 
 # ✨ Features
 
